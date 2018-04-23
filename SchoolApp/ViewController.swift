@@ -25,6 +25,8 @@ class ViewController: UIViewController {
         setImage()
         
     }
+    
+    // Setting initial image and adding timer
 
     func setImage() {
         
